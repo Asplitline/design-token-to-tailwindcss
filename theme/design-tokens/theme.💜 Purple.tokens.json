@@ -1,0 +1,26 @@
+{
+  "primary-dark": {
+    "$type": "color",
+    "$value": "{purple.800}"
+  },
+  "primary-base": {
+    "$type": "color",
+    "$value": "{purple.500}"
+  },
+  "primary-darker": {
+    "$type": "color",
+    "$value": "{purple.700}"
+  },
+  "primary-alpha-24": {
+    "$type": "color",
+    "$value": "{alpha.purple.alpha-24}"
+  },
+  "primary-alpha-16": {
+    "$type": "color",
+    "$value": "{alpha.purple.alpha-16}"
+  },
+  "primary-alpha-10": {
+    "$type": "color",
+    "$value": "{alpha.purple.alpha-10}"
+  }
+}

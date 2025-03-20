@@ -1,0 +1,26 @@
+{
+  "primary-dark": {
+    "$type": "color",
+    "$value": "{sky.800}"
+  },
+  "primary-base": {
+    "$type": "color",
+    "$value": "{sky.500}"
+  },
+  "primary-darker": {
+    "$type": "color",
+    "$value": "{sky.700}"
+  },
+  "primary-alpha-24": {
+    "$type": "color",
+    "$value": "{alpha.sky.alpha-24}"
+  },
+  "primary-alpha-16": {
+    "$type": "color",
+    "$value": "{alpha.sky.alpha-16}"
+  },
+  "primary-alpha-10": {
+    "$type": "color",
+    "$value": "{alpha.sky.alpha-10}"
+  }
+}

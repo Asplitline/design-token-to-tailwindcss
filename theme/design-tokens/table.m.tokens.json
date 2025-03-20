@@ -1,0 +1,10 @@
+{
+  "cell": {
+    "$type": "dimension",
+    "$value": "48px"
+  },
+  "header": {
+    "$type": "dimension",
+    "$value": "40px"
+  }
+}

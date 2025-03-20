@@ -1,0 +1,10 @@
+{
+  "xs": {
+    "$type": "dimension",
+    "$value": "0px"
+  },
+  "xs_2": {
+    "$type": "dimension",
+    "$value": "0px"
+  }
+}

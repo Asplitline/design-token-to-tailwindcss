@@ -1,0 +1,32 @@
+{
+  "page": {
+    "width": {
+      "$type": "dimension",
+      "$value": "1440px"
+    }
+  },
+  "fliter": {
+    "max-width": {
+      "$type": "dimension",
+      "$value": "180px"
+    }
+  },
+  "details": {
+    "max-width": {
+      "$type": "dimension",
+      "$value": "300px"
+    }
+  },
+  "nav": {
+    "max-width": {
+      "$type": "dimension",
+      "$value": "240px"
+    }
+  },
+  "list": {
+    "max-width": {
+      "$type": "dimension",
+      "$value": "240px"
+    }
+  }
+}

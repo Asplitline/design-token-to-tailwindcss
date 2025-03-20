@@ -1,0 +1,185 @@
+{
+  "xs": {
+    "$type": "shadow",
+    "$value": [
+      {
+        "offsetX": "0px",
+        "offsetY": "0.5px",
+        "blur": "0.5px",
+        "spread": "0.5px",
+        "color": "#0000000d"
+      }
+    ]
+  },
+  "sm": {
+    "$type": "shadow",
+    "$value": [
+      {
+        "offsetX": "0px",
+        "offsetY": "1px",
+        "blur": "2px",
+        "spread": "0px",
+        "color": "#0000000d"
+      },
+      {
+        "offsetX": "0px",
+        "offsetY": "1px",
+        "blur": "3px",
+        "spread": "0px",
+        "color": "#0000001a"
+      }
+    ]
+  },
+  "md": {
+    "$type": "shadow",
+    "$value": [
+      {
+        "offsetX": "0px",
+        "offsetY": "2px",
+        "blur": "4px",
+        "spread": "-1px",
+        "color": "#0000000d"
+      },
+      {
+        "offsetX": "0px",
+        "offsetY": "4px",
+        "blur": "6px",
+        "spread": "-1px",
+        "color": "#0000001a"
+      }
+    ]
+  },
+  "hover": {
+    "$type": "shadow",
+    "$value": [
+      {
+        "offsetX": "0px",
+        "offsetY": "2px",
+        "blur": "8px",
+        "spread": "0px",
+        "color": "#0000000d"
+      },
+      {
+        "offsetX": "0px",
+        "offsetY": "2px",
+        "blur": "4px",
+        "spread": "0px",
+        "color": "#0000000d"
+      }
+    ]
+  },
+  "lg": {
+    "$type": "shadow",
+    "$value": [
+      {
+        "offsetX": "0px",
+        "offsetY": "4px",
+        "blur": "6px",
+        "spread": "-2px",
+        "color": "#0000000d"
+      },
+      {
+        "offsetX": "0px",
+        "offsetY": "10px",
+        "blur": "15px",
+        "spread": "-3px",
+        "color": "#0000001a"
+      }
+    ]
+  },
+  "xl": {
+    "$type": "shadow",
+    "$value": [
+      {
+        "offsetX": "0px",
+        "offsetY": "10px",
+        "blur": "10px",
+        "spread": "-5px",
+        "color": "#0000000d"
+      },
+      {
+        "offsetX": "0px",
+        "offsetY": "20px",
+        "blur": "25px",
+        "spread": "-5px",
+        "color": "#0000001a"
+      }
+    ]
+  },
+  "2xl": {
+    "$type": "shadow",
+    "$value": [
+      {
+        "offsetX": "0px",
+        "offsetY": "25px",
+        "blur": "50px",
+        "spread": "-12px",
+        "color": "#00000040"
+      }
+    ]
+  },
+  "focus": {
+    "$type": "shadow",
+    "$value": [
+      {
+        "offsetX": "0px",
+        "offsetY": "0px",
+        "blur": "0px",
+        "spread": "4px",
+        "color": "{primary-alpha-24}"
+      },
+      {
+        "offsetX": "0px",
+        "offsetY": "0px",
+        "blur": "0px",
+        "spread": "2px",
+        "color": "{background.white}"
+      }
+    ]
+  },
+  "fcous-error": {
+    "$type": "shadow",
+    "$value": [
+      {
+        "offsetX": "0px",
+        "offsetY": "0px",
+        "blur": "0px",
+        "spread": "4px",
+        "color": "{state.erro.light}"
+      },
+      {
+        "offsetX": "0px",
+        "offsetY": "0px",
+        "blur": "0px",
+        "spread": "2px",
+        "color": "{background.white}"
+      }
+    ]
+  },
+  "dark": {
+    "$type": "shadow",
+    "$value": [
+      {
+        "offsetX": "0px",
+        "offsetY": "15px",
+        "blur": "40px",
+        "spread": "0px",
+        "color": "#00000066"
+      },
+      {
+        "offsetX": "0px",
+        "offsetY": "5px",
+        "blur": "10px",
+        "spread": "0px",
+        "color": "#00000040"
+      },
+      {
+        "offsetX": "0px",
+        "offsetY": "0px",
+        "blur": "0px",
+        "spread": "1px",
+        "color": "#0000001a"
+      }
+    ]
+  }
+}

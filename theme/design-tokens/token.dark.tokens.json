@@ -1,0 +1,214 @@
+{
+  "background": {
+    "white": {
+      "$type": "color",
+      "$value": "{neutral.950}"
+    },
+    "01": {
+      "$type": "color",
+      "$value": "{neutral.800}"
+    },
+    "02": {
+      "$type": "color",
+      "$value": "{neutral.700}"
+    },
+    "03": {
+      "$type": "color",
+      "$value": "{neutral.600}"
+    }
+  },
+  "font": {
+    "brand": {
+      "$type": "color",
+      "$value": "{primary-dark}"
+    },
+    "family": {
+      "$type": "string",
+      "$value": "PingFang SC"
+    },
+    "color": {
+      "01": {
+        "$type": "color",
+        "$value": "{neutral.0}"
+      },
+      "02": {
+        "$type": "color",
+        "$value": "{neutral.200}"
+      },
+      "03": {
+        "$type": "color",
+        "$value": "{neutral.400}"
+      },
+      "white": {
+        "$type": "color",
+        "$value": "{neutral.950}"
+      },
+      "helper": {
+        "$type": "color",
+        "$value": "{neutral.500}"
+      }
+    },
+    "size": {
+      "xs": {
+        "$type": "dimension",
+        "$value": "11px"
+      },
+      "s": {
+        "$type": "dimension",
+        "$value": "12px"
+      },
+      "m": {
+        "$type": "dimension",
+        "$value": "14px"
+      },
+      "l": {
+        "$type": "dimension",
+        "$value": "16px"
+      },
+      "xl": {
+        "$type": "dimension",
+        "$value": "18px"
+      }
+    }
+  },
+  "border": {
+    "color": {
+      "brand": {
+        "$type": "color",
+        "$value": "{primary-base}"
+      },
+      "white": {
+        "$type": "color",
+        "$value": "{neutral.950}"
+      },
+      "01": {
+        "$type": "color",
+        "$value": "{neutral.700}"
+      },
+      "02": {
+        "$type": "color",
+        "$value": "{neutral.600}"
+      },
+      "03": {
+        "$type": "color",
+        "$value": "{neutral.500}"
+      }
+    },
+    "radius": {
+      "xs": {
+        "$type": "dimension",
+        "$value": "2px"
+      },
+      "s": {
+        "$type": "dimension",
+        "$value": "4px"
+      },
+      "m": {
+        "$type": "dimension",
+        "$value": "6px"
+      },
+      "l": {
+        "$type": "dimension",
+        "$value": "8px"
+      },
+      "xl": {
+        "$type": "dimension",
+        "$value": "12px"
+      }
+    },
+    "icon-size": {
+      "$type": "dimension",
+      "$value": "1px"
+    }
+  },
+  "state": {
+    "success": {
+      "dark": {
+        "$type": "color",
+        "$value": "{green.950}"
+      },
+      "base": {
+        "$type": "color",
+        "$value": "{green.500}"
+      },
+      "light": {
+        "$type": "color",
+        "$value": "{green.200}"
+      },
+      "lighter": {
+        "$type": "color",
+        "$value": "{green.50}"
+      }
+    },
+    "info": {
+      "dark": {
+        "$type": "color",
+        "$value": "{neutral.950}"
+      },
+      "base": {
+        "$type": "color",
+        "$value": "{neutral.500}"
+      },
+      "light": {
+        "$type": "color",
+        "$value": "{neutral.200}"
+      },
+      "lighter": {
+        "$type": "color",
+        "$value": "{neutral.50}"
+      }
+    },
+    "erro": {
+      "dark": {
+        "$type": "color",
+        "$value": "{red.950}"
+      },
+      "base": {
+        "$type": "color",
+        "$value": "{red.500}"
+      },
+      "light": {
+        "$type": "color",
+        "$value": "{red.200}"
+      },
+      "lighter": {
+        "$type": "color",
+        "$value": "{red.50}"
+      }
+    },
+    "disabled": {
+      "base": {
+        "$type": "color",
+        "$value": "{neutral.300}"
+      }
+    }
+  },
+  "illustration": {
+    "strong-400": {
+      "$type": "color",
+      "$value": "{neutral.600}"
+    },
+    "sub-300": {
+      "$type": "color",
+      "$value": "{neutral.700}"
+    },
+    "soft-200": {
+      "$type": "color",
+      "$value": "{neutral.800}"
+    },
+    "weak-100": {
+      "$type": "color",
+      "$value": "{neutral.900}"
+    },
+    "white-0": {
+      "$type": "color",
+      "$value": "{neutral.0}"
+    }
+  },
+  "config": {
+    "menu-bg": {
+      "$type": "color",
+      "$value": "{background.01}"
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "name": "Design Tokens",
+  "collections": {
+    "token": {
+      "modes": {
+        "light": [
+          "token.light.tokens.json"
+        ],
+        "dark": [
+          "token.dark.tokens.json"
+        ]
+      }
+    },
+    "palette": {
+      "modes": {
+        "brand": [
+          "palette.brand.tokens.json"
+        ],
+        "neutral": [
+          "palette.neutral.tokens.json"
+        ]
+      }
+    },
+    "theme": {
+      "modes": {
+        "💙 Blue": [
+          "theme.💙 Blue.tokens.json"
+        ],
+        "💜 Purple": [
+          "theme.💜 Purple.tokens.json"
+        ],
+        "🧡 Orange": [
+          "theme.🧡 Orange.tokens.json"
+        ],
+        "🩵 Sky": [
+          "theme.🩵 Sky.tokens.json"
+        ]
+      }
+    },
+    "set": {
+      "modes": {
+        "l1": [
+          "set.l1.tokens.json"
+        ],
+        "l2": [
+          "set.l2.tokens.json"
+        ],
+        "l3": [
+          "set.l3.tokens.json"
+        ],
+        "l4": [
+          "set.l4.tokens.json"
+        ]
+      }
+    },
+    "responsive": {
+      "modes": {
+        "Mode 1": [
+          "responsive.Mode 1.tokens.json"
+        ]
+      }
+    },
+    "table": {
+      "modes": {
+        "m": [
+          "table.m.tokens.json"
+        ],
+        "s": [
+          "table.s.tokens.json"
+        ],
+        "l": [
+          "table.l.tokens.json"
+        ]
+      }
+    },
+    "test": {
+      "modes": {
+        "pc": [
+          "test.pc.tokens.json"
+        ],
+        "phone": [
+          "test.phone.tokens.json"
+        ]
+      }
+    },
+    "responsive-layout": {
+      "modes": {
+        "1200": [
+          "responsive-layout.1200.tokens.json"
+        ],
+        "1440": [
+          "responsive-layout.1440.tokens.json"
+        ],
+        "1920": [
+          "responsive-layout.1920.tokens.json"
+        ]
+      }
+    },
+    "Collection": {
+      "modes": {
+        "Mode 1": [
+          "Collection.Mode 1.tokens.json"
+        ]
+      }
+    }
+  },
+  "styles": {
+    "effect": [
+      "effect.styles.tokens.json"
+    ]
+  }
+}

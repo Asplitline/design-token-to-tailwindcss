@@ -1,0 +1,6 @@
+{
+  "padding-left": {
+    "$type": "dimension",
+    "$value": "24px"
+  }
+}

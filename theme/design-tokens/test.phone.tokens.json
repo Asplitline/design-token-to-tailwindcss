@@ -1,0 +1,10 @@
+{
+  "padding-01": {
+    "$type": "dimension",
+    "$value": "8px"
+  },
+  "font-size-xs": {
+    "$type": "dimension",
+    "$value": "10px"
+  }
+}
